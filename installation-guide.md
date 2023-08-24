@@ -45,9 +45,12 @@ Congratulations, you have successfully installed GitHub Desktop on your Linux sy
 
 Right-click on the GitHub Desktop icon and select "Add to Favorites" to easily access it.
 
-![Alt text](image-1.png)
+![Alt text](image-2.png)
+
 
 7. Now you are ready to go! Enjoy using GitHub Desktop for your repositories.
+
+![Alt text](image-1.png)
 
     Happy Coding!
 
