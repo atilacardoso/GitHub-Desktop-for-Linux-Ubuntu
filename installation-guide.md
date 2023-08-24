@@ -15,19 +15,15 @@ This guide will walk you through the process of installing GitHub Desktop on Lin
 
 2. Download the GitHub Desktop .deb package:
 
-```shell
 sudo wget https://github.com/shiftkey/desktop/releases/download/release-2.8.1-linux2/GitHubDesktop-linux-2.8.1-linux2.deb
 
 
 3. Once the download is complete, navigate to the download directory:
 
-```shell
 cd ~/Downloads
-
 
 4. Install GitHub Desktop using dpkg:
 
-```shell
 sudo dpkg -i GitHubDesktop-linux-2.8.1-linux2.deb
 
 5. Launch GitHub Desktop from the application menu.
